@@ -56,3 +56,5 @@
 如果你觉得本文档对你有用，★★欢迎star★★，谢谢！
 
 （如果感兴趣的人够多，我会写关于如何提升能力、提升简历、提升面试的文档。）
+
+更新：职位列表我会陆陆续续更新到[Job List](https://github.com/yuguo/bat-internal-referral/blob/master/job-list.md)。
