@@ -2,9 +2,9 @@
 
 **2017年毕业生已经招满了，请不要给我发邮件了，实在没办法。**
 
-** 2018年毕业的实习生则要等到明年夏季再开启招聘，可以继续锻炼一段时间，请参考[什么是优秀的毕业生](https://github.com/yuguo/BAT-internal-referral/blob/master/what-makes-a-outstanding-graduates.md)。**
+**2018年毕业的实习生则要等到明年夏季再开启招聘，可以继续锻炼一段时间，请参考[什么是优秀的毕业生](https://github.com/yuguo/BAT-internal-referral/blob/master/what-makes-a-outstanding-graduates.md)。**
 
-** 本内推招聘2年以上的资深工程师。**
+**本内推招聘2年以上的资深工程师。**
 
 ### 腾讯
 
