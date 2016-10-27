@@ -1,3 +1,5 @@
+[如果觉得项目对你有用，请关注我](https://github.com/yuguo/followers)
+
 # BAT 等国内互联网公司内部推荐
 
 ### 为什么有这个repo？
