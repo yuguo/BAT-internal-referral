@@ -5,7 +5,7 @@
    * [简历怎么写](student/writing-a-resume.md)
    * [实习和校招](student/internship.md)
    * [常见问题](student/faq)
-   * 利用个人网站或者Github
+   * [利用个人网站或者Github](student/github.md)
 * [社会招聘篇](programmer/read.md)
    * [简历怎么写](programmer/writing-a-resumemd.md)
 * 能力提升
