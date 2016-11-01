@@ -1,4 +1,5 @@
-项目阅读地址： [https://yuguo.gitbooks.io/bat-internal-referral/content/](https://yuguo.gitbooks.io/bat-internal-referral/content/)
+在线阅读地址： [https://yuguo.gitbooks.io/bat-internal-referral/content/](https://yuguo.gitbooks.io/bat-internal-referral/content/)
+Github项目地址：[https://github.com/yuguo/bat-internal-referral](https://github.com/yuguo/bat-internal-referral)
 
 
 # BAT 等国内互联网公司内部推荐
@@ -41,12 +42,6 @@
 
 * 大三或大二的优秀准毕业生（大四毕业生求内部推荐已经比较晚了，校园招聘一般在大三就锁定绝大部分人选）
 * 工作两年以上的优秀程序员（一年内的一般不接受，对于公司的梯队建设来说，社会招聘编制是期望能招聘到更有经验的员工）
-
-如何证明你是优秀的程序员呢？在硅谷可能比较看重算法和白板编程，在国内，我了解的公司更加“实用主义”，会主要考察**项目**、**经验**、**作品**和**表达**。
-
-我写了一份[程序员简历指南](https://github.com/yuguo/BAT-internal-referral/blob/master/how-to-write-a-resume.md)，建议所有人在给我邮件之前都仔细阅读和对照修改。我的核心观点是，简历只是帮助你把能力清晰展现出来，而不是通过奇淫巧技获得本不属于你的机会。所以如果觉得自己简历按照这个指南无法很好地展现，很有可能是你能力还需要继续提升。
-
-通过一到两页简历清晰地呈现出来，使用PDF和Word两份格式同时作为附件发送给我（给任何面试官都是这个规则），注明你的姓名、求职目标、工作经验（或学校和年级）并附上简历，你就有可能得到一份面试通知。
 
 如果你觉得本文档对你有用，★★欢迎[star](https://github.com/yuguo/BAT-internal-referral)或[关注我](https://github.com/yuguo/followers)★★，谢谢！
 
