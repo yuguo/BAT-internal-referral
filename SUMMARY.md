@@ -4,7 +4,7 @@
 * [学生篇](student/README.md)
    * [简历怎么写](student/writing-a-resume.md)
    * [实习和校招](student/internship.md)
-   * [常见问题](student/faq)
+   * [常见问题](student/faq.md)
 * [社会招聘篇](programmer/readme.md)
    * [简历怎么写](programmer/writing-a-resumemd.md)
 * [能力提升](common/readme.md)
