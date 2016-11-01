@@ -11,6 +11,6 @@
    * [编程能力](common/progromming-skills.md)
    * [软能力](common/soft-skills.md)
    * 推荐阅读
-* 职位列表
+* [职位列表](job-list.md)
 * [联系我](contact.md)
 
