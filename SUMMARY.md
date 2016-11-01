@@ -10,5 +10,6 @@
 * 能力提升
    * [编程能力](common/progromming-skills.md)
    * [软能力](common/soft-skills.md)
+   * 推荐阅读
 * [联系我](contact.md)
 
