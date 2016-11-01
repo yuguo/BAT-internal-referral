@@ -1,4 +1,5 @@
-[如果觉得项目对你有用，请关注我](https://github.com/yuguo/followers)
+项目阅读地址： [https://yuguo.gitbooks.io/bat-internal-referral/content/](https://yuguo.gitbooks.io/bat-internal-referral/content/)
+
 
 # BAT 等国内互联网公司内部推荐
 
@@ -59,8 +60,6 @@
 
 最后，猎头和HR勿扰！本群是工程师交流推荐群，希望是工程师通过认可技术和简历之后，自己去内部推荐的渠道，而不是猎头和HR轻松发传单的地方。
 
-如果你觉得本文档对你有用，★★欢迎star★★，谢谢！
+如果你觉得本文档对你有用，★★欢迎[star](https://github.com/yuguo/BAT-internal-referral)或[关注我](https://github.com/yuguo/followers)★★，谢谢！
 
-（如果感兴趣的人够多，我会写关于如何提升能力、提升简历、提升面试的文档。）
 
-更新：职位列表我会陆陆续续更新到[Job List](https://github.com/yuguo/bat-internal-referral/blob/master/job-list.md)。
