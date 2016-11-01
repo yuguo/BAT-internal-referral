@@ -7,10 +7,10 @@
    * [常见问题](student/faq)
 * [社会招聘篇](programmer/read.md)
    * [简历怎么写](programmer/writing-a-resumemd.md)
-* [利用个人网站或者Github加分](student/github.md)
 * 能力提升
    * [编程能力](common/progromming-skills.md)
    * [软能力](common/soft-skills.md)
+   * [利用个人网站或者Github加分](student/github.md)
    * 推荐阅读
 * [职位列表](job-list.md)
 * [联系我](contact.md)
