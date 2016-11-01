@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * 职位列表
+* 职位列表
 * [学生篇](student/README.md)
    * [简历怎么写](student/writing-a-resume.md)
    * [实习和校招](student/internship.md)
