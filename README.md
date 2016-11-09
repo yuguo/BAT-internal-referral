@@ -1,4 +1,4 @@
-在线阅读地址【需自备梯子】： [https://yuguo.gitbooks.io/bat-internal-referral/content/](https://yuguo.gitbooks.io/bat-internal-referral/content/)
+在线阅读地址： [https://yuguo.us/referral/](https://yuguo.us/referral/)
 
 Github项目地址：[https://github.com/yuguo/bat-internal-referral](https://github.com/yuguo/bat-internal-referral)
 
